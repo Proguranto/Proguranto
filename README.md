@@ -1,16 +1,10 @@
-<style>
-    .pochita {
-        width: 90%;
-        height: 150px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        box-shadow: 1px 2px 100px 3px #F5F5DC;
-        border-radius: 10px;
-    }
-</style>
+<center>
+    <img src="./img/pochita.gif" width=80% height=auto></img>
+</center>
 
-<img class="pochita" src="./img/pochita.gif"></img>
+<center>
+    <img src="css.svg" width="60%" height=300>
+</center>
 
 <!--
 **Proguranto/Proguranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
