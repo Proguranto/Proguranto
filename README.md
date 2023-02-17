@@ -2,9 +2,11 @@
     <img src="./img/pochita.gif" width=80% height=auto></img>
 </center>
 
-<center>
+<!-- <center>
     <img src="css.svg" width="60%" height=300>
-</center>
+</center> -->
+
+
 
 <!--
 **Proguranto/Proguranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
