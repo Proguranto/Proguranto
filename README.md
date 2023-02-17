@@ -1,5 +1,5 @@
 <center>
-    <img src="./img/pochita.gif" width=80% height=auto></img>
+    <img src="./img/pochita.gif" width=100% height=auto></img>
 </center>
 
 <!-- <center>
